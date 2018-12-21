@@ -303,6 +303,7 @@ public final class MurmurHash3 {
 
 		out.val1 = h1;
 		out.val2 = h2;
+		
 	}
 
 }
